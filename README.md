@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KevalPankhaniya
-- 👀 I’m interested in applications of machine learning, NLP, Reinforcement learning in wireless signal processing domain. 
-- 🌱 I’m currently learning foundation of ML & AI. 
-- 💞️ I’m looking to collaborate on challenging project which can enhance my R&D skill set to register more valuable patents in wireless domain. 
-- 📫 You can reach me on telegram by using my username 'kevalpankhaniya'
+- 👀 I’m interested in building 5G, enhancement of physical layer with applied machine learning and playing badminton. 
+- 🌱 I’m currently working at Alif Semiconductor India Pvt Ltd as Modem Staff Engineer and also enrolled as a full time student at Liver Pool John Moore University for MS course in ML and AI.
+- 💞️ I’m looking to collaborate on challenging open source projects in wireless domain, where I can contribute and grow my skills.  
+- 📫 You can reach me on telegram by using my username '@kevalpankhaniya'
 
 <!---
 KevalPankhaniya/KevalPankhaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
